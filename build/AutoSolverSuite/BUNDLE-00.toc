@@ -1,0 +1,3 @@
+([('AutoSolverSuite',
+   '/Users/arvharan/AutoSolverProject/dist/AutoSolverSuite',
+   'EXECUTABLE')],)
